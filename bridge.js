@@ -7,10 +7,10 @@
         });
 
     } else if (typeof exports !== 'undefined') {
-        root.Translator = factory(root.lodash, root.Translator);
+        factory(root.lodash, root.Translator);
 
     } else {
-        root.Translator = factory(root.lodash, root.Translator);
+        factory(root.lodash, root.Translator);
     }
 }(this, function (lodash, Translator) {
     // Translation in templates
