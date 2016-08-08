@@ -1,0 +1,17 @@
+{
+    "name": "translator-lodash-bridge",
+    "homepage": "https://github.com/DasRed/js-translator-lodash-bridge",
+    "main": "Connects the default translator with lodash imports",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "lodash": "^4.14.1",
+        "translator": "^1.0.0"
+    }
+}
