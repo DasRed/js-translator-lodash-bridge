@@ -10,7 +10,7 @@ The default translator can be used in lodash templates with the function "transl
 
 ```
 <a href="www.heise.de"><%=translate('heise') %></a>
-<a href="www.heise.de"><%=::('heise') %></a>
+<a href="www.heise.de"><%=__('heise') %></a>
 
 ```
 
