@@ -1,0 +1,20 @@
+{
+  "name": "js-translator-lodash-bridge",
+  "version": "1.0.3",
+  "description": "Connects the default translator with lodash imports",
+  "main": "bridge.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasRed/js-translator-lodash-bridge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DasRed/js-translator-lodash-bridge/issues"
+  },
+  "homepage": "https://github.com/DasRed/js-translator-lodash-bridge#readme",
+  "dependencies": {
+      "lodash": "^4.14.1",
+      "translator": "^1.1.3"
+  }
+}

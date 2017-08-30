@@ -2,6 +2,7 @@
 ## Install
 ```
 bower install translator-lodash-bridge --save
+npm install js-translator-lodash-bridge --save
 ```
 
 # How To
